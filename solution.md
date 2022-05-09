@@ -27,7 +27,7 @@ npm run serve
 
 ## Architecture and approach
 #### General guideline
-![Optional Text](../src/assets/images/structure.png)
+![Optional Text](./src/assets/images/structure.png)
 ### Components structure
 
 I divided components into 2 types:
