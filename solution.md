@@ -6,7 +6,7 @@
   * [Project architecture and approach ](#architecture-and-approach)
   * [Todo](#todo)
 
-##Build setup
+## Build setup
 ``` bash
 #install vue-cli
 npm install -g @vue/cli
@@ -20,27 +20,27 @@ npm install
 npm run serve
 
 ```
-##Tech stacks
+## Tech stacks
 - Main framework: Vue 3, Typescript
 - State management: Pinia 
 - Styling: SASS/SCSS
 
-##Architecture and approach
-####General guideline
-
-###Components structure
+## Architecture and approach
+#### General guideline
+![Optional Text](../src/assets/images/structure.png)
+### Components structure
 
 I divided components into 2 types:
 - Base components: will be implemented in src/components/Base
 - General components: will be implemented in src/components/
 
-###A component structure (Example:  FormContent)
+### A component structure (Example:  FormContent)
 - FormContent.vue : template file
 - index.ts : Typescript file with all script definition
 - index.scss : component styling
 - index.spec.ts : component unit test
 
-##Todo
+## Todo
 - Clarify the requirement for the form fields so that I can implement form's validation.
 - Add a steps progress bar so that user can know what step they are working on.
 - Fix perfect pixel
