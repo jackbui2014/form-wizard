@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Standard",
+    "description": "",
+    "percentages": 0,
+    "sku": "sku0"
+  },
+  {
+    "name": "Safe",
+    "description": "it is 50% more expensive than Standard",
+    "percentages": 50,
+    "sku": "sku1"
+  },
+  {
+    "name": "Super Safe",
+    "description": "it is 75% more expensive than Standard",
+    "percentages": 75,
+    "sku": "sku2"
+  }
+]

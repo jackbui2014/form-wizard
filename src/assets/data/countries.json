@@ -1,0 +1,5 @@
+[
+  { "text": "Hong Kong", "value": "HKD", "rate": 1 },
+  { "text": "USA", "value": "USD", "rate": 2 },
+  { "text": "Australia", "value": "AUD", "rate": 3 }
+]
